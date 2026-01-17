@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncmy
+aioredis
+python-multipart
+python-dotenv
+alembic
+pydantic
+redis
+pydantic-settings
+PyJWT
+cryptography
+bcrypt
+aiofiles
+oss2
