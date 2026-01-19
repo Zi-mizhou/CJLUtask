@@ -1,0 +1,7 @@
+21:30:07 [WARNING] ip:127.0.0.1,访问:http://localhost:8001/api/v1/auth/login,发生异常:用户不存在
+21:30:30 [WARNING] ip:127.0.0.1,访问:http://localhost:8001/api/v1/auth/login,发生异常:用户不存在
+21:33:14 [WARNING] ip:127.0.0.1,访问:http://localhost:8001/api/v1/auth/register,发生异常:角色不存在
+21:33:51 [WARNING] ip:127.0.0.1,访问:http://localhost:8001/api/v1/auth/register,发生异常:角色不存在
+21:35:01 [WARNING] ip:127.0.0.1,访问:http://localhost:8001/api/v1/auth/register,发生异常:角色不存在
+21:37:34 [ERROR] ip:127.0.0.1,访问:http://localhost:8001/api/v1/auth/register,发生异常:Private key not found. Please generate keys first.
+21:41:45 [ERROR] ip:127.0.0.1,访问:http://localhost:8001/api/v1/auth/register,发生异常:Private key not found. Please generate keys first.
